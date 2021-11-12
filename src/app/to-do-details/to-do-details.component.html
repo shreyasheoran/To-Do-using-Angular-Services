@@ -1,0 +1,12 @@
+<h2 style="text-align: center;">To-Do Details</h2>
+<table border="5px" class="center">
+<tr>
+    <td>Sl</td>
+    <td>Activity</td>
+    <td>Completed(Y/N)</td>
+</tr>    
+<tr *ngFor="let item of todo">
+    <td>{{item.Sl}}</td>
+    <td>{{item.Activity}}</td>
+    <td>{{item.Completed}}</td>
+</table> 

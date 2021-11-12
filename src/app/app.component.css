@@ -1,0 +1,15 @@
+html{
+    margin: 0;
+    font-family: "Times New Roman",sans-serif;
+    background: rgb(178, 206, 233);
+}
+                                    /*header*/
+
+.logo-heading h1 {
+    margin-top: 3px;
+    padding-top: 30px;
+    padding-bottom:20px ;
+    font-family: "Lucida Handwriting",sans-serif;
+    position: relative;
+    text-align: center;
+}

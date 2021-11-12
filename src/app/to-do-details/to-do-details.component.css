@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 30%;
+    border: 3px solid rgb(129, 14, 43);
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  th {
+    background-color: #b648ad;
+    padding: 30px;
+  }
+  
+  tr:nth-child(even) {background-color: #c97f7f;}
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
